@@ -6,8 +6,12 @@
  This course is  primarily designed for undergraduate students. Students become understand basics of computer programming
 
 ## Main References: (recommended, not required)
-
--
+- H.M. Deitel, P.J Deitel, C How to Program(Third Edition), Prentice Hall, 2001
+- นิรุธ อํานวยศิลป์ คู่มือการเขียนโปรแกรมด้วยภาษาซี พิมพ์ครั้งที่ 7 โปรวิชั่น, 2550
+- นิรุธ อํานวยศิลป์ การเขียนโปรแกรมภาษาซี ฉบับสมบูรณ์ พิมพ์ครั้งที่ 3 Thaidev, 2548
+- รุ่งทิวา เสาร์สิงห์ คู่มือเรียนรู้ภาษาซีด้วยตนเอง ซีเอ็ดยูเคชั่น, 2549
+- อรพิน ประวัติบริสุทธิ์ คู่มือเรียนภาษาซี โปรวิชั่น ,2547
+- วัชราภรณ์ สุริยาภิวัฒน์ คอมพิวเตอร์เบื้องต้นและเทคนิคการเขียนโปรแกรม สํานักพิมพ์จุฬาฯ
 
 ## Score
 
