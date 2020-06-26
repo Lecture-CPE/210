@@ -15,7 +15,8 @@
 
 | Lect# | Date | Description  |Slide| Assignment Due Date |
 |:-----:|------|-------------|----|---------------------|
-|  1 |Thu 1 July 2020| Orientation and Intro to computer programming|* [w1-intro](https://git.npu.world/lecture-cpe/210/-/raw/master/w1/w1-compro.pdf?inline=false) <br> * [E-Lab](https://git.npu.world/lecture-cpe/210/-/raw/master/w1/2020-elab-user.pdf?inline=false)| HW\#1 Wed 8 July 2020 |
-| 16 |     | ***Final exam***   |               |* Close book    |
+|  1 |Thu 1 July 2020| Orientation and Intro to computer programming| - [w1-intro](https://git.npu.world/lecture-cpe/210/-/raw/master/w1/w1-compro.pdf?inline=false) <br> - [E-Lab](https://git.npu.world/lecture-cpe/210/-/raw/master/w1/2020-elab-user.pdf?inline=false)| HW\#1 Wed 8 July 2020 <br> [links](https://elab.npu.world) |
+| 8 |     | ***Midterm exam***   |               |    |
+| 16 |     | ***Final exam***   |               |    |
 
 
